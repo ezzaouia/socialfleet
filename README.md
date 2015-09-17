@@ -1,2 +1,2 @@
 # socialfleet
-![First screenshot](../img/20.55.39.png?raw=true "sign in page")
+![First screenshot](https://raw.github.com/ezzaouia/socialfleet/img/20.55.39.png)
