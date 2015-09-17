@@ -1,2 +1,2 @@
 # socialfleet
-![First screenshot](img/20.55.39.png)
+![First screenshot](img/signin.png)
