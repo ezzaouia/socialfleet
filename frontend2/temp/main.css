@@ -1,0 +1,26 @@
+body {
+  background: url('bg.jpg') no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+.well,
+.jumbotron {
+  background-color: rgba(255, 255, 255, 0.08);
+  border-color: rgba(0, 0, 0, 0.3);
+  margin-top: 20px;
+}
+.navbar {
+  background-color: rgba(255, 255, 255, 0.1);
+  border: none;
+  border-radius: 0;
+}
+.homeTxt,
+h1.homeTxt {
+  color: rgba(255, 255, 255, 0.1);
+}
+.glyphicon.glyphicon-send {
+  font-size: 250px;
+  color: rgba(255, 255, 255, 0.1);
+}
