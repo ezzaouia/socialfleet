@@ -1,7 +1,7 @@
 module.exports = {
-  TWITTER_KEY: '0K0PoyyhadBwGjZI2FQSlkLJw',
-  TWITTER_SECRET: 'PQH1fdVEHMdWARSq7RBJZ8bUwpf5Zwk24BdNUIJ4w7R6tvdzJJ',
+  TWITTER_KEY: 'your twitter key here',
+  TWITTER_SECRET: 'your twitter secret here',
   TOKEN_SECRET: 'blahblah',
   TWITTER_CALLBACK: 'http://localhost:8000',
-  FACEBOOK_SECRET: '90b5f4c78a41f03fa56c293ab69ac1e2'
+  FACEBOOK_SECRET: 'your facebook secret here'
 }
